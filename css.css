@@ -1,0 +1,186 @@
+#fl-flex{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.page_color{
+	background-color:#000;
+	font-family: Georgia;
+	height: 5px;
+}
+.nav_bar{
+	position: relative;
+	padding: 50px;
+	font-family: Georgia;
+}
+.nav_title{
+	float: left;
+	background: transparent;
+	border: 4px solid #c03;
+	border-radius:5px;
+	padding: 5px 10px;
+	font-family: Georgia;
+	font-size: 16px;
+	margin: 5px 10px;
+}
+.nav_title:hover{
+	background: transparent;
+	border: 1px solid #c03;
+	cursor: pointer;
+}
+.nav_title a{
+	text-decoration: none;
+	color: #fff;
+}
+.inner-text{
+	position: relative;
+	height: 400px;
+	text-align: center;
+	font-family:sans-serif;
+	color: #fff;
+}
+.main_title{
+	font-size: 400%;
+	font-weight: normal;
+	text-shadow: 1px 1px 1px #C03;
+	font-family: sans-serif;
+	padding: 0 0 0 0;
+}
+.sub_title{
+font-size: 250%;
+font-weight: normal;
+text-shadow: 1px 1px 1px #C03;
+font-family: Georgia;
+font-style: italic;
+padding: 0 0 0 0;
+}
+.welcome_note{
+	float: left;
+	position: relative;
+	width: 40%;
+	padding: 5% 0 0 8%;
+}
+.first{
+	text-align: justify;
+	font-size: 98%;
+	font-family: Georgia;
+	font-weight:lighter;
+	color: #fff;
+}
+.second{
+	text-align: justify;
+	font-size: 120%;
+	font-family: sans-serif;
+	color: fff;
+}
+.form_right{
+	float:right;
+	height:80%;
+	position: relative;
+	width:50%;
+	padding:2% 1%;
+	}
+#formWrap{
+	width:100%;
+	position: relative;
+	max-width: 400px;
+	padding: 7% 17%;
+	text-align:left;
+	}
+	.form_head{
+		font-size: 25px;
+		text-align: center;
+		position: relative;
+		color: #00c;
+	}
+	form {
+		margin-bottom: 20px;
+		position: relative;
+	}
+	input,
+	button {
+		padding: 10px;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	label{
+		margin-bottom: 20px;
+	}
+	label,
+	input,
+	textarea{
+		display: block;
+	}
+	input[type="submit"],
+	input[type="reset"],
+	button {
+		margin-top: 20px;
+		width: auto;
+		display: inline;
+		border: 1px solid #ccc;
+	}
+	label input{margin-top: 10px;
+	 }
+
+	.footer {
+		 text-align: center;
+		 position: relative;
+		 color: #fff;
+		 width: 100%;
+		 height: 60px;
+		 margin-top: 350px;
+	 }
+
+	 /**About Us css codes **/
+	 .abt_header {
+		 margin-top: 10px;
+		 position: relative;
+		 text-align: left;
+		 margin-left: 66px;
+		 color: #fff;
+		 font-size: 1.7em;
+		 font-family: Georgia;
+		 font-weight: normal;
+	 }
+	 .pic_left{
+		 margin-top: 50px;
+	 }
+	 .img1 {
+		 position: relative;
+		 float: left;
+		 margin-left: 65px;
+
+	 }
+	 .about_feed{
+		 position: relative;
+		 padding-right: 50px;
+		 text-align: left;
+		 width: 20px;
+		 height: 80px;
+		 color: #fff;
+	 }
+	 .topics{
+		 font-size: 22px;
+		 padding-right: 20px;
+		 margin-left: 65px;
+		 width: 85%;
+		 text-align: justify;
+	 }
+	 .point{
+		 margin-top: 10px;
+		 font-weight: bold;
+		 font-size: 26px;
+	 }
+	 .details{
+		 font-size: 18px;
+		 font-family: Georgia;
+	 }
+	 .footer_1 {
+ 		 text-align: center;
+ 		 position: relative;
+ 		 color: #fff;
+ 		 width: 100%;
+ 		 height: 60px;
+ 		 margin-top: 90px;
+ 	 }
